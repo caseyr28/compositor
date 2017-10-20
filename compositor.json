@@ -99,7 +99,7 @@
     },
     {
       "component": "header",
-      "heading": "compositor",
+      "heading": "Headline",
       "subhead": "testing compositor",
       "children": [
         {
@@ -112,7 +112,9 @@
           "user": "caseyr28",
           "repo": "compositor"
         }
-      ]
+      ],
+      "image": " ",
+      "backgroundImage": "https://static1.squarespace.com/static/56cd01b245bf211039a7d9cb/t/56df93da7da24fcf36dd06ac/1457492969813/"
     },
     {
       "component": "article",
